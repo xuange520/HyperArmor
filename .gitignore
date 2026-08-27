@@ -1,0 +1,20 @@
+# Build and Temporary artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.obj
+*.exp
+*.lib
+*.pdb
+*.map
+*.vmp
+*.vmp.exe
+*.dynamic.vmp
+build/
+dist/
+dist_defense/
+nuitka_build/
+nuitka_workspace/
+.vscode/
+.idea/
